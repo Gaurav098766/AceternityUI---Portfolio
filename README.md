@@ -39,3 +39,5 @@ Navbar made using Navbar Aceternity UI
 Front Page made using HeroParallax
 
 About us made using BentoGrid
+
+Recent work shown using 3D Card Effect
