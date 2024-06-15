@@ -7,7 +7,7 @@ const Navbar = () => {
 
   return (
     <div className="relative w-full flex items-center justify-center text-white">
-      <div className="fixed top-0 w-full z-[1000] shadow-md shadow-purple-500 bg-black">
+      <div className="fixed top-0 w-full z-[1000] shadow-md shadow-yellow-500 bg-black">
         <div className="flex justify-between py-2 px-5">
           <img src="" width={100} alt="" />
           <Menu setActive={setActive}>
